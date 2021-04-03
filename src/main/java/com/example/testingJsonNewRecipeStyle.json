@@ -1,0 +1,61 @@
+[
+	{
+		"title": "Gobble Up Granola Snacks",
+		"course": "Snack",
+		"totalTime": 45,
+		"numberOfServings": 18,
+		"ingredients": [
+			{
+				"ingredient": "2 1/2 cups crispy rice cereal"
+			},
+			{
+				"ingredient": "2 cups quick-cooking oats"
+			},
+			{
+				"ingredient": "1/2 cup raisins "
+			},
+			{
+				"ingredient": "1/2 cup packed brown sugar "
+			},
+			{
+				"ingredient": "1/2 cup light corn syrup "
+			},
+			{
+				"ingredient": "1/2 cup crunchy peanut butter "
+			},
+			{
+				"ingredient": "1 teaspoon vanilla extract"
+			}
+		],
+		"instructions": "In a large bowl, stir together the rice cereal, oats, and raisins. Set aside. Grease a 9x13 inch baking dish with cooking spray.\nCombine the brown sugar and corn syrup in a small saucepan over medium heat. Heat just until boiling, then remove from heat and stir in peanut butter and vanilla until smooth. Pour over the cereal and oat mixture, and mix well.\nPress into the prepared pan using the back of a large spoon. Allow to cool, then cut into squares.\n",
+		"pictureLink": "resources/static/images"
+	},
+	{
+		"title": "Pecan Snack",
+		"course": "Snack",
+		"totalTime": 70,
+		"numberOfServings": 32,
+		"ingredients": [
+			{
+				"ingredient": "1 egg white "
+			},
+			{
+				"ingredient": "1 tablespoon water "
+			},
+			{
+				"ingredient": "1 pound pecans "
+			},
+			{
+				"ingredient": "3/4 cup white sugar "
+			},
+			{
+				"ingredient": "1 teaspoon ground cinnamon"
+			},
+			{
+				"ingredient": "1 teaspoon salt"
+			}
+		],
+		"instructions": "Preheat oven to 250 degrees F (120 degrees C).\nIn a large bowl, beat egg white with water until frothy. Stir in pecans and mix to coat. Combine sugar, cinnamon and salt and stir into pecan mixture. Spread on a baking sheet.\nBake in preheated oven 1 hour, stirring every 15 minutes. Store in an airtight container.\n",
+		"pictureLink": "resources/static/images"
+	}
+]

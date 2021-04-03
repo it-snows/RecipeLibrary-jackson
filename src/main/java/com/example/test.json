@@ -1,0 +1,18 @@
+[ {
+  "recipeId" : 0,
+  "title" : "test pudding",
+  "course" : "dessert",
+  "totalTime" : 15,
+  "numberOfServings" : 2,
+  "ingredients" : [ {
+    "ingredientId" : 0,
+    "recipeId" : 0,
+    "ingredient" : "eggs"
+  }, {
+    "ingredientId" : 0,
+    "recipeId" : 0,
+    "ingredient" : "milk"
+  } ],
+  "instructions" : "do everything",
+  "pictureLink" : "src/img"
+} ]
