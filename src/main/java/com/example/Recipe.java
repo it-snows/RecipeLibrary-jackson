@@ -18,9 +18,9 @@ public class Recipe {
     private String course;
     private int totalTime;
     private int numberOfServings;
-    //    works with String List
-//    private String[] ingredients;
-    private List<Ingredient> ingredients = new ArrayList<>();
+    private List<Ingredient> ingredients;
+    //    private String[] ingredients;
+//    private List<Ingredient> ingredients = new ArrayList<>();
     private String instructions;
     private String pictureLink;
 

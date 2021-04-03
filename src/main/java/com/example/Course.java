@@ -10,13 +10,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @JsonIgnoreProperties(ignoreUnknown = true)
-
-public class Ingredient {
-//    private int ingredientId;
-//    private int recipeId;
-    private String ingredient;
-    private double amount;
-    private String unit;
-
+public class Course {
+    private int id;
+    private String course;
 }
-
